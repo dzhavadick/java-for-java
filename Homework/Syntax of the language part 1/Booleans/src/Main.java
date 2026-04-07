@@ -33,6 +33,7 @@ public class Main {
         if (applePie) {
             System.out.println("Apple pie");
         }
+        System.out.println("Тест Git");
 
     }
 }
